@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\SST</_PublishTargetUrl>
+    <History>True|2021-08-20T05:43:56.0353177Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>08/20/2021 11:23:28</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/20/2021 11:23:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/20/2021 11:23:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/20/2021 11:23:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/20/2021 11:23:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/20/2021 11:23:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/20/2021 11:23:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/20/2021 11:23:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/20/2021 11:23:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/20/2021 11:23:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/20/2021 11:23:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/20/2021 11:23:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/20/2021 11:23:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/20/2021 11:23:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="bin/SalesMngTool.dll">
+      <publishTime>08/20/2021 14:43:55</publishTime>
+    </File>
+    <File Include="bin/SalesMngTool.pdb">
+      <publishTime>08/20/2021 14:43:55</publishTime>
+    </File>
+    <File Include="Controll/SearchOppo.ascx">
+      <publishTime>08/20/2021 11:23:34</publishTime>
+    </File>
+    <File Include="Controll/SearchPrtne.ascx">
+      <publishTime>08/20/2021 11:23:34</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="Page/EditHistCon.aspx">
+      <publishTime>08/20/2021 11:23:34</publishTime>
+    </File>
+    <File Include="Page/EditMaster.aspx">
+      <publishTime>08/20/2021 11:23:34</publishTime>
+    </File>
+    <File Include="Page/LogIn.aspx">
+      <publishTime>08/20/2021 11:23:34</publishTime>
+    </File>
+    <File Include="Page/MySalesManMng.aspx">
+      <publishTime>08/20/2021 11:23:34</publishTime>
+    </File>
+    <File Include="Page/RegistCon.aspx">
+      <publishTime>08/20/2021 11:23:34</publishTime>
+    </File>
+    <File Include="Page/RegistMaster.aspx">
+      <publishTime>08/20/2021 11:23:34</publishTime>
+    </File>
+    <File Include="Page/ViewHistCon.aspx">
+      <publishTime>08/20/2021 11:23:34</publishTime>
+    </File>
+    <File Include="Page/ViewPrtne.aspx">
+      <publishTime>08/20/2021 11:23:34</publishTime>
+    </File>
+    <File Include="salesMng.Master">
+      <publishTime>08/20/2021 11:23:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/20/2021 14:43:55</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
